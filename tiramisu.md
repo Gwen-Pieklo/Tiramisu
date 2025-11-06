@@ -2,6 +2,8 @@
 
 
 ##ingredients
-
+-eggs
+-espresso
+-mascarpone
 
 ##instructions
